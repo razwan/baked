@@ -1,0 +1,10 @@
+{
+  "name": "baked",
+  "repository": "git@github.com:razwan/baked.git",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-util": "^3.0.8"
+  }
+}
